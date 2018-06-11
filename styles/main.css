@@ -60,3 +60,7 @@ body, html {
 	text-shadow: 2px 2px 2px black;
 	background-color: rgba(255,255,255,0.50);
 }
+
+.w3-display-container {
+	height: 100%;
+}
